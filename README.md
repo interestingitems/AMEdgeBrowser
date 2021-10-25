@@ -57,6 +57,6 @@ Expansion of the TEdgeBroser component of embarcadero for the replacement of the
  - [Language]        for context menu  CoreWebView2EnvironmentOptions.Language
  - [popupmenu]       Not exists (realy??) implement in ICoreWebView2_4 example https://github.com/MicrosoftEdge/WebView2Feedback/blob/master/specs/ContextMenuRequested.md
  - [LOG]             Timing event
- - [LOG]             Class helper for access to LastReordError con critcal section  (why not virtual ?? )
+ - [LOG]             Class helper for access to ProcessHResult and save FLastErrorCode with critical section  (why not virtual ?? )
  - [Component]       How to hide the TEdgeBrowser public event/function use from my extention??
  
