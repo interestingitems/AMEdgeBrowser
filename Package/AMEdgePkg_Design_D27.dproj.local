@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/03 08:33:29.000.257,=rtl.dcp</Transaction>
+    <Transaction>2021/10/25 06:47:35.000.915,=rtl.dcp</Transaction>
+    <Transaction>2021/10/25 06:48:13.000.134,C:\Library\AMEdge\Package\AMEdgePkg_Design_D27.dproj=C:\Users\genesi\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2021/10/25 06:50:07.000.150,=C:\Library\AMEdge\Src\AMEdgeReg.pas</Transaction>
+    <Transaction>2021/10/25 06:59:35.000.462,=designide.dcp</Transaction>
+    <Transaction>2021/10/25 06:59:49.000.993,=vcledge.dcp</Transaction>
+    <Transaction>2021/10/25 06:59:49.000.977,=vclie.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

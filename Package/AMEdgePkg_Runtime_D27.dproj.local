@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/03 08:33:29.000.257,=rtl.dcp</Transaction>
+    <Transaction>2021/10/25 06:26:18.000.540,=rtl.dcp</Transaction>
+    <Transaction>2021/10/25 06:26:29.000.931,=C:\Users\genesi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/25 06:27:22.000.150,C:\Users\genesi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Library\AMEdge\Src\AMEdgeInterface.pas</Transaction>
+    <Transaction>2021/10/25 06:27:37.000.806,=C:\Users\genesi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/25 06:27:47.000.415,C:\Users\genesi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Library\AMEdge\Src\AMEdgeConstant.pas</Transaction>
+    <Transaction>2021/10/25 06:28:58.000.743,C:\Users\genesi\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\Library\AMEdge\Package\AMEdgePkg_Runtime_D27.dproj</Transaction>
+    <Transaction>2021/10/25 06:30:18.000.853,=C:\Library\AMEdge\Src\AMEdgeBrowser.pas</Transaction>
+    <Transaction>2021/10/25 06:34:17.000.290,=C:\Library\AMEdge\Package\Unit1.pas</Transaction>
+    <Transaction>2021/10/25 06:34:35.000.915,C:\Library\AMEdge\Package\Unit1.pas=C:\Library\AMEdge\Src\AMEdgeStructure.pas</Transaction>
+    <Transaction>2021/10/25 06:57:54.000.212,=vcl.dcp</Transaction>
+    <Transaction>2021/10/25 06:57:54.000.244,=vclie.dcp</Transaction>
+    <Transaction>2021/10/25 06:57:54.000.244,=vcledge.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
