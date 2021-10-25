@@ -41,9 +41,8 @@ Expansion of the TEdgeBroser component of embarcadero for the replacement of the
 - ColorWebView directly from object inspector
 
 [Simplification]
-
--- add event OnErrorExecuteScriptAM in case of error while running a script 
--- add event OnScriptDialogOpeningAM with url and message of dialog 
+- add event OnErrorExecuteScriptAM in case of error while running a script 
+- add event OnScriptDialogOpeningAM with url and message of dialog 
 
 ## TODO
  
